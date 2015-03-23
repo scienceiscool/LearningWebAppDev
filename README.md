@@ -4,5 +4,3 @@
 __Description:__ (Will come back to this)
 
 __Status:__ Working
-
-__Sample Run:__ (Will come back to this)
